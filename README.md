@@ -9,3 +9,9 @@ years old. Visit my website https://www.tronic247.com/ <br>
 You can help me by - <br>
 Subscribing me on YouTube - https://youtube.com/tronic247?sub_confirmation=1
 Starring this framework - https://material.pages.dev/
+
+<style>
+.js-user-status-container.user-status-circle-badge.d-inline-block.lh-condensed-ultra.p-2.user-status-busy.border.color-border-warning {
+    border-radius: 10px !important;
+}
+</style>
