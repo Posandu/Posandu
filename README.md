@@ -1,4 +1,4 @@
-# Tronic247
+# Tronic247 - For seekers of innovation 
 <img src="https://github-readme-stats.vercel.app/api?username=tronic247&show_icons=true&theme=red"/>
 <img src="https://profile-counter.glitch.me/tronic247/count.svg"/>
 <br>
