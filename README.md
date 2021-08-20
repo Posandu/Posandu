@@ -5,8 +5,8 @@
 
 ## I'm Posandu Mapa, founder of Tronic247.
 
-### I'm 13 years old. Visit my website https://www.tronic247.com/ <br>
+I'm 13 years old. Visit my website https://www.tronic247.com/ <br>
 ## You can help me by - <br>
-### Subscribing me on YouTube - https://youtube.com/tronic247?sub_confirmation=1
+Subscribing me on YouTube - https://youtube.com/tronic247?sub_confirmation=1
 ### Starring this framework - https://material.pages.dev/
 
