@@ -1,2 +1,3 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v0.0.18
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.13
+
