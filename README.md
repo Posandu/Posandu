@@ -10,3 +10,6 @@ I'm 13 years old. Visit my website https://www.tronic247.com/ <br>
 Subscribing me on YouTube - https://youtube.com/tronic247?sub_confirmation=1
 ### Starring this framework - https://material.pages.dev/
 
+![](https://activity-graph.herokuapp.com/graph?username=tronic247&theme=light)
+
+
