@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://images.unsplash.com/photo-1634136145285-21280ef1f2f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80" alt="tronic247" /> </p>
+<p align="center"> <img src="https://images.unsplash.com/photo-1634136145285-21280ef1f2f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80&mask=corners" alt="tronic247" /> </p>
 
 <h1 align="center">Hi 👋, I'm Posandu Mapa</h1>
 <h3 align="center">Founder of Tronic247</h3>
