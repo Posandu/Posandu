@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 🌱 Favorite singers **Avicii, Imagine Dragons**
+- 🌱 Favorite singer (band) **Imagine Dragons**
 
 - 🤝 I’m looking for help with [Tronic247 Material](https://github.com/Tronic247/material)
 
