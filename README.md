@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Posandu Mapa</h1>
 <h3 align="center">Founder of Tronic247</h3>
+<img src="https://tronic247.com/visits.gif/"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=posandu&label=Profile%20views&color=0e75b6&style=flat" alt="tronic247" /> </p>
 
