@@ -1,7 +1,4 @@
-
-
 <p align="center"> <img src="https://images.unsplash.com/photo-1634136145285-21280ef1f2f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80&mask=corners" alt="tronic247" /> </p>
-
 <h1 align="center">Hi 👋, I'm Posandu Mapa</h1>
 <h3 align="center">Founder of Tronic247</h3>
 
@@ -9,21 +6,23 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=posandu" alt="tronic247" /></a> </p>
 
-- 🔭 I’m currently working on [Tronic247 Material](https://www.tronic247.com/material/?ref=gRm)
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 🌱 Favorite singer (band) **Imagine Dragons**
-
-- 🤝 I’m looking for help with [Tronic247 Material](https://github.com/Tronic247/material)
-
 - 👨‍💻 All of my projects are available at [https://www.tronic247.com/](https://www.tronic247.com/)
 
 - 📝 I regularly write articles on [https://www.tronic247.com/](https://www.tronic247.com/)
 
-- 💬 Ask me about **jQuery, CSS, HTML and PHP**
+- 💬 Ask me about **Javascript, CSS, HTML and PHP**
 
 - 📫 How to reach me **posandu{at]tronic247.com**
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│                                                                      │
+│                                                                      │
+│                                                                      │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+````
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,3 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=posandu&" alt="tronic247" /></p>
 
+
+<sup><sup><sup><sup><sup><sup>Never Gonna Give You Up __ Posandu/Posandu is a special repository: its README.md will appear on your profile!</sup></sup></sup></sup></sup></sup>
