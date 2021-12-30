@@ -6,7 +6,7 @@
 <a href="https://material.tronic247.com/">
 <img src="https://material.tronic247.com/logo.svg" width="200">
 
-# Tronic247 Material
+Tronic247 Material
 </a>
 
 
