@@ -49,7 +49,7 @@ Tronic247 Material
 <tr>
 </table>
 
-<!--START_SECTION:waka-->
+<img src='https://robohash.org/7pe47'> <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
