@@ -1,5 +1,5 @@
 var fs = require('fs')
-const https = require('https')
+const http = require('https')
 const file = 'README.md';
 const options = {
     hostname: 'picsum.photos',
