@@ -49,7 +49,7 @@ Tronic247 Material
 <tr>
 </table>
 
-<!--aa-->
+![](https://www.gravatar.com/avatar/p4ptwp4ptwp4ptw?s=28)<!--aa-->
 
 ```text
 No Activity tracked this Week
