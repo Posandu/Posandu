@@ -1,0 +1,16 @@
+name: Update stat
+
+on:
+  workflow_dispatch: 
+  push:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "* * *"
+
+jobs:
+  update-readme:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hi
+      - run: echo hi
