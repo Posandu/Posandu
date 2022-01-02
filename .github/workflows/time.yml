@@ -5,7 +5,7 @@ on:
   push:
   schedule:
     # Runs at 12am UTC
-    - cron: "10 * * * *"
+    - cron: "5 5 * * *"
 
 jobs:
   update-readme:
