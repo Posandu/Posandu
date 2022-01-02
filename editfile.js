@@ -1,30 +1,23 @@
-var fs = require('fs')
-const http = require('https')
-const file = 'README.md';
-const options = {
-    hostname: 'picsum.photos',
-    path: '/200/300',
-    port: 80,
-    method: 'GET'
-}
+const Jimp = require('jimp');
 
-const req = http.request(options, function (res) {
-    console.log('STATUS: ' + res.statusCode);
-    console.log('HEADERS: ' + JSON.stringify(res.headers));
-    res.setEncoding('utf8');
 
-    res.on('data', function (chunk) {
-        const data = chunk;
-        fs.readFile(file, function (err, data) {
-            if (err) throw err;
-            fs.writeFile(file, data, function (err) {
-                err || console.log('Data replaced \n', data);
-            });
-        });
+let imageData = [
+  [ 0xFF0000FF, 0xFF0000FF, 0xFF0000FF ],
+  [ 0xFF0000FF, 0x00FF00FF, 0xFF0000FF ],
+  [ 0xFF0000FF, 0xFF0000FF, 0x0000FFFF ]
+];
+
+
+let image = new Jimp(3, 3, function (err, image) {
+  if (err) throw err;
+
+  imageData.forEach((row, y) => {
+    row.forEach((color, x) => {
+      image.setPixelColor(color, x, y);
     });
+  });
+
+  image.write('img.png', (err) => {
+    if (err) throw err;
+  });
 });
-
-
-req.on('error', error => {
-    console.error(error)
-})
