@@ -1,2 +1,16 @@
-name: generate-snake-game-from-github-contribution-grid
-uses: Platane/snk@v0.0.18
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "5 * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
