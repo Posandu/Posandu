@@ -1,8 +1,12 @@
-var fs = require('fs');
-var imgGen = require('js-image-generator');
- 
-// Generate one image
-imgGen.generateImage(800, 600, 80, function(err, image) {
-    fs.writeFileSync('img.jpg', image.data);
+var replace = require("replace");
+
+// use:
+
+let r = (Math.random() + 1).toString(36).substring(7);
+replace({
+    regex: "<!--START_SECTION:waka-->",
+    replacement: "<img src='https://robohash.org/"+r+"'> <!--START_SECTION:waka-->",
+    paths: ['README.md'],
+    recursive: true,
+    silent: true,
 });
- 
