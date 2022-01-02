@@ -49,7 +49,7 @@ Tronic247 Material
 <tr>
 </table>
 
-![](https://www.gravatar.com/avatar/p4ptwp4ptwp4ptw?s=28)![](https://picsum.photos/20)![](https://picsum.photos/20)![](https://picsum.photos/25)![](https://picsum.photos/25?bv7ta=tr)<!--aa-->
+![](https://www.gravatar.com/avatar/p4ptwp4ptwp4ptw?s=28)![](https://picsum.photos/20)![](https://picsum.photos/20)![](https://picsum.photos/25)![](https://picsum.photos/25?bv7ta=tr)![](https://picsum.photos/25?i6d34=tr)<!--aa-->
 
 ```text
 No Activity tracked this Week
