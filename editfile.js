@@ -1,13 +1,24 @@
 var fs = require('fs')
-const someFile = "README.md"
+const https = require('https')
+const file = 'README.md';
+const options = {
+    hostname: 'picsum.photos',
+    path: '/200/300',
+    method: 'GET'
+}
 
-fs.readFile(someFile, 'utf8', function (err,data) {
-  if (err) {
-    return console.log(err);
-  }
-  var result = data.replace(/<!----!----->/g, '<!----!-----> <img src="https://picsum.photos/200/300">');
+const req = https.request(options, res => {
+    res.on('data', d => {
 
-  fs.writeFile(someFile, result, 'utf8', function (err) {
-     if (err) return console.log(err);
-  });
-});
+        fs.readFile(file, function (err, data) {
+            if (err) throw err;
+            fs.writeFile(file, d, function (err) {
+                err || console.log('Data replaced \n', data);
+            });
+        });
+    })
+})
+
+req.on('error', error => {
+    console.error(error)
+})
