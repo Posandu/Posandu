@@ -28,7 +28,7 @@ Tronic247 Material
 .
 </td>
 <td>
-<a href="https://app.daily.dev/posandu"><img src="https://github.com/posandu/posandu/blob/master/devcard.svg" width="400" alt="My Dev Card"/></a></td>
+<a href="https://app.daily.dev/posandu"><img src="devcard.svg" width="400" alt="My Dev Card"/></a></td>
 <td>
 .
 </td>
