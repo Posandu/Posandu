@@ -22,6 +22,19 @@ Tronic247 Material
 
 - 📫 How to reach me **posandu{at]tronic247.com**
 
+<table>
+<tr>
+<td>
+.
+</td>
+<td>
+<a href="https://app.daily.dev/posandu"><img src="https://api.daily.dev/devcards/bc577391486143969f5b3b599b499632.png?r=teg" width="400" alt="Posandu Mapa's Dev Card"/></a>
+</td>
+<td>
+.
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
