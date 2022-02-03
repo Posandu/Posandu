@@ -12,9 +12,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 
-I'm 14 years old. Love and enjoy programming with javaScript and PHP. Founder of Tronic247
+I'm 14 years old. Enjoy programming with JavaScript and PHP, doing frontend stuff with HTML and CSS.
 
-## My Project
+## What have I done
 <a href="https://material.tronic247.com/">
 <img src="https://material.tronic247.com/logo.svg" width="200">
 
