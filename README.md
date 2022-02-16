@@ -37,5 +37,5 @@ Tronic247 Material
 
 ## Some random data
 ```
-<!--aa-->
+![](https://picsum.photos/25?jbizy=tr)<!--aa-->
 ```
