@@ -1,6 +1,6 @@
 const replace = require("replace");
 let r = (Math.random() + 1).toString(36).substring(7);
-const reg = "/****\\**\\**/";
+const reg = "\/\*\*\*\*\\\*\*\\\*\*\/";
 replace({
     regex: reg,
     replacement: `\nconst _${(Math.random() + 1).toString(36).substring(7)} = \`${r}__${new Date().toLocaleString()}\`; `+reg,
