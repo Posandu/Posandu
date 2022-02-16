@@ -36,6 +36,6 @@ Tronic247 Material
 - How to reach me **posandu{at]tronic247.com**
 
 ## Some random data
-```
-![](https://picsum.photos/25?jbizy=tr)ciqzv__2/16/2022, 1:46:42 PM<!--aa-->
+```javascript
+const first = `ciqzv__2/16/2022, 1:46:42 PM`; //I'm first
 ```
