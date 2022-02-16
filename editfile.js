@@ -5,7 +5,7 @@ var replace = require("replace");
 let r = (Math.random() + 1).toString(36).substring(7);
 replace({
     regex: "<!--aa-->",
-    replacement: `${r}__${new Date().now()}<!--aa-->`,
+    replacement: `${r}__${new Date().toLocaleString()}<!--aa-->`,
     paths: ['README.md'],
     recursive: true,
     silent: true,
