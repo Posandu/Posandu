@@ -37,5 +37,5 @@ Tronic247 Material
 
 ## Some random data
 ```javascript
-const first = `ciqzv__2/16/2022, 1:46:42 PM`; /****\**\**/
+const first = `ciqzv__2/16/2022, 1:46:42 PM`; a=10;
 ```
