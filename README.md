@@ -37,5 +37,5 @@ Tronic247 Material
 
 ## Some random data
 ```javascript
-a=10;
+`6fdkn`;a=10;
 ```
