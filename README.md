@@ -36,6 +36,7 @@ Tronic247 Material
 - How to reach me **posandu{at]tronic247.com**
 
 ## Some random data
+<b>Come tommorow again for another thing</b> 
 ```javascript
 `6fdkn`;a=10;
 ```
