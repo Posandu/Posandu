@@ -2,7 +2,6 @@
 <h1>Posandu Mapa</h1>
 
 ![](https://komarev.com/ghpvc/?username=posandu)
-![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FPosandu%2F)
 
 ## About
 Hey! I'm Posandu. I'm 14 years old. I founded @Tronic247. Enjoy programming with JavaScript and PHP, doing frontend stuff with HTML and CSS.
