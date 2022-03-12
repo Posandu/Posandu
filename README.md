@@ -1,5 +1,7 @@
 ## Posandu Mapa
-![](https://komarev.com/ghpvc/?username=posandu)
+![](https://komarev.com/ghpvc/?username=posandu) <br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,nextjs,nodejs,php,wordpress,mysql,postgresql,prisma,react,typescript,figma,firebase,vscode)](https://skillicons.dev)
 
 ## About
 Hey! I'm Posandu. A 14 year old fullstack developer. Mostly do React,HTML,CSS,Node,PHP and Git. If you need to learn more, https://portfolio.tronic247.com/
