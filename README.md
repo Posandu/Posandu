@@ -1,4 +1,4 @@
-## Posandu Mapa
+## Posandu 
 ![](https://komarev.com/ghpvc/?username=posandu) <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,nextjs,nodejs,php,wordpress,mysql,postgresql,prisma,react,typescript,figma,firebase,vscode)](https://skillicons.dev)
