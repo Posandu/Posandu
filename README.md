@@ -20,8 +20,6 @@ I already told you some.Here are some of the popular stuff I do
 - CSS
 - PHP
 - Node
-- Sleep
-- Study
 - Code
 
 ### Contact
