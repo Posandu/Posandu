@@ -48,4 +48,4 @@ I already told you some.Here are some of the popular stuff I do
 !-->
 
 ## Status
-<img src="https://lanyard.cnrad.dev/api/961161387101536296" width=350>
+<img src="https://lanyard.cnrad.dev/api/961161387101536296?d=a=10;" width=350>
