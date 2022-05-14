@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "jimp": "^0.16.1",
-    "js-image-generator": "^1.0.3",
-    "replace": "^1.2.1"
-  }
-}
