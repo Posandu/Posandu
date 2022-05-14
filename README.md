@@ -47,4 +47,4 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=posandu&show_reply=false)]()
 
 
-<!-- START gadpp -->
+<!--START_SECTION:activity-->
