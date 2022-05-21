@@ -48,9 +48,9 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/SiddharthShyniben/planckcolors/pull/2) in [SiddharthShyniben/planckcolors](https://github.com/SiddharthShyniben/planckcolors)
-2. 🎉 Merged PR [#158](https://github.com/win11react/store/pull/158) in [win11react/store](https://github.com/win11react/store)
-3. 🎉 Merged PR [#1](https://github.com/Posandu/tcol/pull/1) in [Posandu/tcol](https://github.com/Posandu/tcol)
-4. 🗣 Commented on [#1](https://github.com/Posandu/tcol/issues/1) in [Posandu/tcol](https://github.com/Posandu/tcol)
-5. 🎉 Merged PR [#121](https://github.com/Tronic247/material/pull/121) in [Tronic247/material](https://github.com/Tronic247/material)
+1. 🎉 Merged PR [#126](https://github.com/Tronic247/material/pull/126) in [Tronic247/material](https://github.com/Tronic247/material)
+2. 🎉 Merged PR [#127](https://github.com/Tronic247/material/pull/127) in [Tronic247/material](https://github.com/Tronic247/material)
+3. 🎉 Merged PR [#125](https://github.com/Tronic247/material/pull/125) in [Tronic247/material](https://github.com/Tronic247/material)
+4. 🎉 Merged PR [#122](https://github.com/Tronic247/material/pull/122) in [Tronic247/material](https://github.com/Tronic247/material)
+5. 💪 Opened PR [#2](https://github.com/SiddharthShyniben/planckcolors/pull/2) in [SiddharthShyniben/planckcolors](https://github.com/SiddharthShyniben/planckcolors)
 <!--END_SECTION:activity-->
