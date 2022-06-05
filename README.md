@@ -48,9 +48,9 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#550](https://github.com/dailydotdev/daily/issues/550) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. 🎉 Merged PR [#133](https://github.com/Tronic247/material/pull/133) in [Tronic247/material](https://github.com/Tronic247/material)
-3. 🎉 Merged PR [#130](https://github.com/Tronic247/material/pull/130) in [Tronic247/material](https://github.com/Tronic247/material)
-4. 🎉 Merged PR [#131](https://github.com/Tronic247/material/pull/131) in [Tronic247/material](https://github.com/Tronic247/material)
-5. 🎉 Merged PR [#132](https://github.com/Tronic247/material/pull/132) in [Tronic247/material](https://github.com/Tronic247/material)
+1. ❗️ Opened issue [#561](https://github.com/dailydotdev/daily/issues/561) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+2. ❗️ Opened issue [#550](https://github.com/dailydotdev/daily/issues/550) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+3. 🎉 Merged PR [#133](https://github.com/Tronic247/material/pull/133) in [Tronic247/material](https://github.com/Tronic247/material)
+4. 🎉 Merged PR [#130](https://github.com/Tronic247/material/pull/130) in [Tronic247/material](https://github.com/Tronic247/material)
+5. 🎉 Merged PR [#131](https://github.com/Tronic247/material/pull/131) in [Tronic247/material](https://github.com/Tronic247/material)
 <!--END_SECTION:activity-->
