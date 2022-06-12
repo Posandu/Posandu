@@ -26,7 +26,8 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 
 ## Contact
 - Email: posandumapa@gmail.com
-- Discord: Posandu#4867
+- Discord: Posandu#4040
+<br>
 <a href="https://stackoverflow.com/users/16474083/posandu"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16474083&layout=compact"></a>
 
 
