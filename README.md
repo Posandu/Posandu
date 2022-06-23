@@ -49,9 +49,9 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#544](https://github.com/blueedgetechno/win11React/issues/544) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. 🗣 Commented on [#292](https://github.com/blueedgetechno/win11React/issues/292) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. 🎉 Merged PR [#140](https://github.com/Tronic247/material/pull/140) in [Tronic247/material](https://github.com/Tronic247/material)
-4. 🗣 Commented on [#585](https://github.com/dailydotdev/daily/issues/585) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-5. ❗️ Opened issue [#585](https://github.com/dailydotdev/daily/issues/585) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+1. 🎉 Merged PR [#167](https://github.com/win11react/store/pull/167) in [win11react/store](https://github.com/win11react/store)
+2. 🗣 Commented on [#544](https://github.com/blueedgetechno/win11React/issues/544) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+3. 🗣 Commented on [#292](https://github.com/blueedgetechno/win11React/issues/292) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+4. 🎉 Merged PR [#140](https://github.com/Tronic247/material/pull/140) in [Tronic247/material](https://github.com/Tronic247/material)
+5. 🗣 Commented on [#585](https://github.com/dailydotdev/daily/issues/585) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
 <!--END_SECTION:activity-->
