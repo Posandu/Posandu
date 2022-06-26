@@ -52,6 +52,6 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 1. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
 2. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
 3. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
-4. 💪 Opened PR [#8](https://github.com/yashash1511/Win11_Svelte/pull/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
-5. 🎉 Merged PR [#167](https://github.com/win11react/store/pull/167) in [win11react/store](https://github.com/win11react/store)
+4. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
+5. 💪 Opened PR [#8](https://github.com/yashash1511/Win11_Svelte/pull/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
 <!--END_SECTION:activity-->
