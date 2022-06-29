@@ -13,7 +13,13 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 
 ## What I can
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,nextjs,nodejs,php,wordpress,mysql,postgresql,prisma,react,typescript,figma,firebase,vscode)](https://skillicons.dev)
+- JavaScript [Better than 99% JS devs](https://www.codingame.com/certification/UuE-yYkOPsUD3F6aCWZ5ZA)
+- CSS, SCSS
+- HTML, PHP, Svelte
+- React
+- Node, NextJS
+- MySql, Postgresql
+- Typescript
 
 ## I use
 
@@ -25,11 +31,9 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 - Notion for taking notes
 
 ## Contact
+
 - Email: posandumapa@gmail.com
 - Discord: Posandu#4040
-<br>
-<a href="https://stackoverflow.com/users/16474083/posandu"><img src="https://github-readme-stackoverflow.vercel.app/?userID=16474083&layout=compact"></a>
-
 
 ## What I've done
 
@@ -41,12 +45,12 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gr2rav6xfv3jbfsemb5orfw57m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
 
-| <a href="https://app.daily.dev/posandu"> 				<img src="https://api.daily.dev/devcards/bc577391486143969f5b3b599b499632.png?r=byh" width="300" alt="Posandu's Dev Card"/> 			</a> | <a href="https://discord.com/users/961161387101536296"> 				<img src="https://lanyard.cnrad.dev/api/961161387101536296" width=350> 			</a> |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+## Reading stats
+
+<img src="https://api.daily.dev/devcards/bc577391486143969f5b3b599b499632.png?r=sp8" width=200/>
 
 ## Stay updated
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=posandu&show_reply=false)]()
-
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
