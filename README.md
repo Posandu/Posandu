@@ -53,9 +53,9 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=posandu&show_reply=false)]()
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
+1. ❌ Closed PR [#170](https://github.com/win11react/store/pull/170) in [win11react/store](https://github.com/win11react/store)
 2. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
 3. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
 4. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
-5. 💪 Opened PR [#8](https://github.com/yashash1511/Win11_Svelte/pull/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
+5. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
 <!--END_SECTION:activity-->
