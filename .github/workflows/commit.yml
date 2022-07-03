@@ -13,8 +13,5 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: node index.js
       - uses: stefanzweifel/git-auto-commit-action@v4
