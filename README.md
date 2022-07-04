@@ -53,9 +53,9 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=posandu&show_reply=false)]()
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#143](https://github.com/Tronic247/material/pull/143) in [Tronic247/material](https://github.com/Tronic247/material)
-2. ❌ Closed PR [#142](https://github.com/Tronic247/material/pull/142) in [Tronic247/material](https://github.com/Tronic247/material)
-3. ❌ Closed PR [#141](https://github.com/Tronic247/material/pull/141) in [Tronic247/material](https://github.com/Tronic247/material)
-4. ❌ Closed PR [#170](https://github.com/win11react/store/pull/170) in [win11react/store](https://github.com/win11react/store)
-5. 🗣 Commented on [#8](https://github.com/yashash1511/Win11_Svelte/issues/8) in [yashash1511/Win11_Svelte](https://github.com/yashash1511/Win11_Svelte)
+1. 🗣 Commented on [#144](https://github.com/Tronic247/material/issues/144) in [Tronic247/material](https://github.com/Tronic247/material)
+2. ❌ Closed PR [#143](https://github.com/Tronic247/material/pull/143) in [Tronic247/material](https://github.com/Tronic247/material)
+3. ❌ Closed PR [#142](https://github.com/Tronic247/material/pull/142) in [Tronic247/material](https://github.com/Tronic247/material)
+4. ❌ Closed PR [#141](https://github.com/Tronic247/material/pull/141) in [Tronic247/material](https://github.com/Tronic247/material)
+5. ❌ Closed PR [#170](https://github.com/win11react/store/pull/170) in [win11react/store](https://github.com/win11react/store)
 <!--END_SECTION:activity-->
