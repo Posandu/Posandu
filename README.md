@@ -54,8 +54,8 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#122](https://github.com/stylify/packages/issues/122) in [stylify/packages](https://github.com/stylify/packages)
-2. ❗️ Opened issue [#122](https://github.com/stylify/packages/issues/122) in [stylify/packages](https://github.com/stylify/packages)
-3. 🗣 Commented on [#22](https://github.com/rebelchris/daily-dev-tips/issues/22) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
-4. 💪 Opened PR [#145](https://github.com/Tronic247/material/pull/145) in [Tronic247/material](https://github.com/Tronic247/material)
-5. 🗣 Commented on [#144](https://github.com/Tronic247/material/issues/144) in [Tronic247/material](https://github.com/Tronic247/material)
+2. 🗣 Commented on [#122](https://github.com/stylify/packages/issues/122) in [stylify/packages](https://github.com/stylify/packages)
+3. ❗️ Opened issue [#122](https://github.com/stylify/packages/issues/122) in [stylify/packages](https://github.com/stylify/packages)
+4. 🗣 Commented on [#22](https://github.com/rebelchris/daily-dev-tips/issues/22) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
+5. 💪 Opened PR [#145](https://github.com/Tronic247/material/pull/145) in [Tronic247/material](https://github.com/Tronic247/material)
 <!--END_SECTION:activity-->
