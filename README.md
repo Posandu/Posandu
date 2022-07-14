@@ -53,9 +53,9 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=posandu&show_reply=false)]()
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#562](https://github.com/blueedgetechno/win11React/issues/562) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. 💪 Opened PR [#14](https://github.com/stylify/web/pull/14) in [stylify/web](https://github.com/stylify/web)
-3. 🗣 Commented on [#122](https://github.com/stylify/packages/issues/122) in [stylify/packages](https://github.com/stylify/packages)
+1. 🎉 Merged PR [#146](https://github.com/Tronic247/material/pull/146) in [Tronic247/material](https://github.com/Tronic247/material)
+2. 🗣 Commented on [#562](https://github.com/blueedgetechno/win11React/issues/562) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+3. 💪 Opened PR [#14](https://github.com/stylify/web/pull/14) in [stylify/web](https://github.com/stylify/web)
 4. 🗣 Commented on [#122](https://github.com/stylify/packages/issues/122) in [stylify/packages](https://github.com/stylify/packages)
-5. ❗️ Opened issue [#122](https://github.com/stylify/packages/issues/122) in [stylify/packages](https://github.com/stylify/packages)
+5. 🗣 Commented on [#122](https://github.com/stylify/packages/issues/122) in [stylify/packages](https://github.com/stylify/packages)
 <!--END_SECTION:activity-->
