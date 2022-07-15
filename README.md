@@ -56,6 +56,6 @@ I'm Posandu. A 14-year-old full stack developer. I code and make stuff with Java
 1. 🗣 Commented on [#584](https://github.com/blueedgetechno/win11React/issues/584) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 2. 🗣 Commented on [#584](https://github.com/blueedgetechno/win11React/issues/584) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 3. 🗣 Commented on [#584](https://github.com/blueedgetechno/win11React/issues/584) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-4. 💪 Opened PR [#584](https://github.com/blueedgetechno/win11React/pull/584) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-5. 🎉 Merged PR [#146](https://github.com/Tronic247/material/pull/146) in [Tronic247/material](https://github.com/Tronic247/material)
+4. 🗣 Commented on [#584](https://github.com/blueedgetechno/win11React/issues/584) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+5. 🗣 Commented on [#584](https://github.com/blueedgetechno/win11React/issues/584) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
